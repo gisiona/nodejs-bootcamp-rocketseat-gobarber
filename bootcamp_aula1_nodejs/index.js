@@ -114,4 +114,5 @@ server.delete('/users/:id' , (req, res) => {
 
 console.log("Servidor iniciando na porta 5000");
 
+
 server.listen(5000);
